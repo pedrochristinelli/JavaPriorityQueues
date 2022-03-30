@@ -1,0 +1,13 @@
+package com.priorization;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PriorizationApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PriorizationApplication.class, args);
+	}
+
+}
